@@ -2,7 +2,9 @@
 My research's goal was to determine the link between Texas's county-level revenue and how that affected vaccination rates. The fact that COVID-19 made such a big influence my senior year of high school, sparked my interest in this subject. I wanted to find out whether there was a correlation between the counties in Texas with the highest vaccination rates and per capita income. I was also intrested in Identifying the biases that impacted these rates and why.
 
 APA Citations: 
+
 Wikipedia contributors. (2023, February 18). COVID-19 pandemic in Texas. In Wikipedia. Retrieved February 19, 2023, from https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Texas
+
 Wikipedia contributors. (2023, February 17). List of Texas locations by per capita income. In Wikipedia. Retrieved February 19, 2023, from https://en.wikipedia.org/wiki/List_of_Texas_locations_by_per_capita_income
 
 The license of  data: 
