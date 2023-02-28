@@ -1,5 +1,5 @@
 # MAH7535_Assignment7
-My research's goal was to determine the link between Texas's county-level revenue and how that affected vaccination rates. The fact that COVID-19 made such a big influence my senior year of high school, sparked my interest in this subject. I wanted to find out whether there was a correlation between the counties in Texas with the highest vaccination rates and per capita income. I was also intrested in Identifying the biases that impacted these rates and why.
+My research's goal was to determine the link between Texas's county-level income and how that affected vaccination rates. The fact that COVID-19 made such a big influence my senior year of high school, sparked my interest in this subject. I wanted to find out whether there was a correlation between the counties in Texas with the highest vaccination rates and per capita income. I was also intrested in Identifying the biases that impacted these rates and why.
 
 APA Citations: 
 
